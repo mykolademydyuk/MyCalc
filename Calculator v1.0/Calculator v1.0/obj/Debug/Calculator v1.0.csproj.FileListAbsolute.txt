@@ -1,0 +1,6 @@
+c:\users\student.step\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\bin\Debug\Calculator v1.0.exe.config
+C:\Users\student.STEP\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\bin\Debug\Calculator v1.0.exe
+C:\Users\student.STEP\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\bin\Debug\Calculator v1.0.pdb
+C:\Users\student.STEP\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\obj\Debug\Calculator v1.0.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\obj\Debug\Calculator v1.0.exe
+C:\Users\student.STEP\documents\visual studio 2015\Projects\Calculator v1.0\Calculator v1.0\obj\Debug\Calculator v1.0.pdb
